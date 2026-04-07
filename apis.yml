@@ -1,7 +1,12 @@
 aid: cooper-standard-holdings
-url: https://raw.githubusercontent.com/api-evangelist/cooper-standard-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/cooper-standard-holdings/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.cooper-standard-holdings.com
+description: >-
+  Cooper Standard is a global supplier of systems and components for the automotive
+  industry, including sealing, fuel and brake delivery, fluid transfer, and anti-vibration
+  systems.
