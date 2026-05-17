@@ -2,7 +2,7 @@ aid: cooper-standard-holdings
 url: >-
   https://raw.githubusercontent.com/api-evangelist/cooper-standard-holdings/refs/heads/main/apis.yml
 name: Cooper Standard Holdings
-x-type: company
+kind: company
 description: >-
   Cooper Standard Holdings is a global automotive supplier headquartered in
   Northville, Michigan, that designs, engineers, manufactures, and sells
