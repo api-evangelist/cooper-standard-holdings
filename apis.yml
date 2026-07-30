@@ -14,7 +14,18 @@ description: >-
   Standard does not publish a public developer program or REST APIs. Its
   digital presence centers on corporate, investor, supplier, and careers
   websites.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cooper-standard-holdings.png
 tags:
   - Automotive
   - Brake Systems
