@@ -14,6 +14,17 @@ description: >-
   Standard does not publish a public developer program or REST APIs. Its
   digital presence centers on corporate, investor, supplier, and careers
   websites.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
