@@ -1,7 +1,9 @@
 ---
 title: Cooper-Standard Holdings Stock Price, News & Analysis
 url: https://www.stocktitan.net/overview/CPS/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cooper-Standard Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google
